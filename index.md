@@ -27,7 +27,7 @@ title: "Rock and Roll Canada"
 }
 </style>
 
-<h2>Video of the DAY</h2>
+<h2>Record of the Day</h2>
 <h3>FU MANCHU </h3>
 <p> Southern California Stoner rock 1985 to present.</p>
 
