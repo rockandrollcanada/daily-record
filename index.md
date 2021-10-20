@@ -4,7 +4,11 @@ title: "Rock and Roll Canada"
 ---
 
 <style>
-.container {
+  
+  body {
+    background-color: gold;
+}
+  .container {
   position: relative;
   width: 100%;
   overflow: hidden;
