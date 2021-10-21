@@ -5,9 +5,7 @@ title: "Rock and Roll Canada"
 
 <style>
   
-  body {
-    background-color: gold;
-}
+ 
   .container {
   position: relative;
   width: 100%;
